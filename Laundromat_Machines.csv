@@ -1,0 +1,7 @@
+MachineID,MachineType,Location,Status
+M01,Washer,Midtown,Maintenance
+M02,Dryer,Midtown,Active
+M03,Washer,Midtown,Maintenance
+M04,Dryer,Uptown,Active
+M05,Washer,Midtown,Maintenance
+M06,Dryer,Uptown,Active
